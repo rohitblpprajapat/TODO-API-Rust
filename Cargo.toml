@@ -1,5 +1,5 @@
 [package]
-name = "demoApiForLearning"
+name = "demo_api_for_learning"
 version = "0.1.0"
 edition = "2021"
 
